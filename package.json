@@ -10,6 +10,7 @@
     "@types/node": "^16.18.71",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
+    "axios": "^1.6.5",
     "datatables.net-dt": "^1.13.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
